@@ -20,7 +20,7 @@ main {
 }
 
 .container {
-  margin-top: 12.8rem;
+  margin-top: 12rem;
   text-align: center;
 }
 
@@ -44,8 +44,9 @@ button {
 }
 
 .number {
-  font-size: 7rem;
+  font-size: 6rem;
   font-weight: bold;
+  color: hsl(209, 61%, 16%);
 }
 
 button {
